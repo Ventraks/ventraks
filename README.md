@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Lua
 - ⚡ Fun fact: I play csgo
 
-<p align='center'>
-<a href="https://www.buymeacoffee.com/ventraks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ventraks&theme=dark">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ventraks&count_private=true&show_icons=true&theme=dark&layout=compact">
 </p>
