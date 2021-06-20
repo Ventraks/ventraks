@@ -1,8 +1,4 @@
-### RANDOM INFORMATIONS ABOUT ME 
-
-- 🔭 I’m currently working on FiveM Sripts
-- 🌱 I’m currently learning Lua
-- ⚡ Fun fact: I play csgo
+### INFORMATIONS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ventraks&theme=dark">
